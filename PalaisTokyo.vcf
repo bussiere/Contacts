@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Palais de tokyo
+N:de tokyo;Palais;;;
+ADR;TYPE=HOME:;;13\, avenue du Président-Wilson;Paris;;75016;
+NOTE:Métro\: Alma-Marceau or Iéna \n\nMilieu du feu le Samedi soir\n\npobox
+ 0\: null\nstreet0\: 13\, avenue du Président-Wilson\ncity0\: PAris\nregion
+ 0\: null\npostcode0\: 75016\ncountry0\: null\ntype0\: 1\n
+END:VCARD

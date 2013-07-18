@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Café du Métro maubert mutualité
+N:mutualité;Café;du Métro maubert;;
+TEL;TYPE=CELL:01 43 25 55 43
+ADR;TYPE=HOME:;75005;18 Place Maubert;Paris;;;
+END:VCARD
