@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:bar les furieux
+N:furieux;bar;les;;
+EMAIL;TYPE=INTERNET;TYPE=HOME: lesfurieux@noos.fr
+TEL;TYPE=CELL:01 47 00 78 44
+TEL;TYPE=CELL:01 47 00 78 44 ‎
+ADR;TYPE=HOME:;;74 Rue de la Roquette;Paris;;75011;
+ADR;TYPE=HOME:;75011;74 Rue Roquette;Paris;;;
+NOTE:phone0\: 01 47 00 78 44 ‎\npobox0\: null\nstreet0\: 74 Rue Roquette\nc
+ ity0\: Paris\nregion0\: null\npostcode0\: null\ncountry0\: null\ntype0\: 1
+ \n\n\nmetro ligne 5 Bréguet - Sabin ou voltaire ou bastille.
+END:VCARD
